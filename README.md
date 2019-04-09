@@ -1,0 +1,2 @@
+# AFSDK
+Application Framework SDK
